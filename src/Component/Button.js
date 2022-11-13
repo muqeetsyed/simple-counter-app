@@ -10,4 +10,3 @@ function Button({name, counterVariable, functionCounter}) {
 }
 
 export default Button
-
